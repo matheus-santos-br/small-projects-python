@@ -4,10 +4,10 @@ import smtplib
 
 #temp-mail.org
 
-email_sender = 'xxxxxxx'
+email_sender = 'teste1@gmail.com'
 email_password = 'pass'
 
-email_receiver = 'xxxxxxx'
+email_receiver = 'teste2@gmail.com'
 
 subject = 'Hey'
 body = """
